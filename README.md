@@ -10,7 +10,27 @@ Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak
 - v2.0 Veri Saklama
 
 ## Projenin Kapsamı
-Geliştirilecek olan kod asistanı; kullanıcıdan alınan komutları işleyerek temel düzeyde hesaplama, selamlama ve mantıksal karar yapılarını çalıştırma kapsamına sahiptir.
+Başla
+
+Saat = 1
+
+Su seviyesi = 42
+
+Su seviyesi ≤ 50 iken:
+
+Saat ve su seviyesini yaz.
+
+Saat = Saat + 1
+
+Yeni su seviyesini oku.
+
+Su seviyesi > 50 ise:
+
+"Kritik su seviyesi!" yaz.
+
+Tahliye saatini yaz.
+
+Bitir
 
 ## Kaynakça
 - Algoritmik Düşünme ve Tasarım Ders Kitabı
